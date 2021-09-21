@@ -5,4 +5,4 @@ return divide;
 
 let square = (num1) => num1 * num1;
 
-var add = (sum1,sum2) => sum1 + sum2;
+const add = (sum1,sum2) => sum1 + sum2;
